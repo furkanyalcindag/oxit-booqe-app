@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1041555054841",
+    "firebase_url": "https://booqe-c079f.firebaseio.com",
+    "project_id": "booqe-c079f",
+    "storage_bucket": "booqe-c079f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041555054841:android:b0c830d97a16a477658228",
+        "android_client_info": {
+          "package_name": "com.oxit.oxit_booqe_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041555054841-rbsla66oglmirssonp1r04s65jka6mg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTW_TccOxP0PTbujOUepYbE_6YksUAXA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041555054841-rbsla66oglmirssonp1r04s65jka6mg7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1041555054841-nv60d83uuo7rvsv552alh9oqjhe04ht5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.oxit.oxitBooqeApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
